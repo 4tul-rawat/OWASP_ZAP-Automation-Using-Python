@@ -4,7 +4,7 @@ import time
 # ZAP Proxy settings
 zap_address = 'localhost'
 zap_port = '8080'
-zap_api_key = '9rv72t9cktblpc89g0gl9sauno'  # Change to your API key, if you have set one
+zap_api_key = 'your_api_key'  # Change to your API key, if you have set one
 
 # Target to scan
 target_url = 'http://www.itsecgames.com/'  # Change to your target
